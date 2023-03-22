@@ -1,4 +1,4 @@
-# JoseAPulido.github.io
+# SENSOR DS1307
 
 ## DESCRIPCIÓN
 El DS1307 Real-Time-Clock Serie, es un dispositivo de bajo consumo de energía,
