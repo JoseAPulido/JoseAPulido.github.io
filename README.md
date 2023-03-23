@@ -13,14 +13,24 @@ de la semana, y año con año bisiesto Compensación Válido hasta 2100.
 
 
 Rango de voltaje de entrada: 4.5Vdc a 5.5Vdc.
+
 Rango de voltaje de Batería: 2Vdc a 3.5Vdc.
+
 Máxima corriente de consumo: 1.5 mA.
+
 Puerto de comunicación: I2C.
+
 Frecuencia máxima de transmisión: 100KHz.
+
 Formato BCD.
+
 Rango de operación de temperatura: de 0℃ a +70℃).
+
 Dimensiones: Largo 2.8cm; ancho 2.7cm; alto 0.9cm.
+
 Fabricante: Maxim Integrated.
+
+![](https://github.com/tectijuana/git-fundamentos-JoseAPulido/blob/main/circuito.png)
 
 ## ¿Para que sirve?
 Es un circuito integrado capaz de almacenar y llevar la cuenta de la fecha y hora, 
