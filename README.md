@@ -14,23 +14,23 @@ Dirección y datos son transferidos a través de 2 hilos serie, bus bi-direccion
 de la semana, y año con año bisiesto Compensación Válido hasta 2100.
 
 
-Rango de voltaje de entrada: 4.5Vdc a 5.5Vdc.
+*Rango de voltaje de entrada: 4.5Vdc a 5.5Vdc.
 
-Rango de voltaje de Batería: 2Vdc a 3.5Vdc.
+*Rango de voltaje de Batería: 2Vdc a 3.5Vdc.
 
-Máxima corriente de consumo: 1.5 mA.
+*Máxima corriente de consumo: 1.5 mA.
 
-Puerto de comunicación: I2C.
+*Puerto de comunicación: I2C.
 
-Frecuencia máxima de transmisión: 100KHz.
+*Frecuencia máxima de transmisión: 100KHz.
 
-Formato BCD.
+*Formato BCD.
 
-Rango de operación de temperatura: de 0℃ a +70℃).
+*Rango de operación de temperatura: de 0℃ a +70℃).
 
-Dimensiones: Largo 2.8cm; ancho 2.7cm; alto 0.9cm.
+*Dimensiones: Largo 2.8cm; ancho 2.7cm; alto 0.9cm.
 
-Fabricante: Maxim Integrated.
+*Fabricante: Maxim Integrated.
 
 ![](https://github.com/tectijuana/git-fundamentos-JoseAPulido/blob/main/circuito.png)
 
