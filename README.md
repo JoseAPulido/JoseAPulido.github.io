@@ -37,6 +37,11 @@ de la semana, y año con año bisiesto Compensación Válido hasta 2100.
 ## ¿Para que sirve?
 Es un circuito integrado capaz de almacenar y llevar la cuenta de la fecha y hora, 
 además disponemos de unos cuantos bytes de datos de usuario en su memoria RAM no volátil (NVRAM)
+### Donde es utilizado?
+El DS1307 es utilizado en una amplia variedad de dispositivos electrónicos que necesitan un reloj en tiempo real, como sistemas de control de acceso, sistemas de seguridad, equipos médicos, y muchos otros dispositivos electrónicos que requieren una indicación precisa del tiempo.
+
+## Precio en el mercado
+Ronda entre 120 y 150 pesos mexicanos el kit con 5 Piezas en MercadoLibre
 
 ## Link para realizar simulador del sensor DS1307 RTC
 
