@@ -32,7 +32,7 @@ de la semana, y año con año bisiesto Compensación Válido hasta 2100.
 
 * Fabricante: Maxim Integrated.
 
-![](https://github.com/tectijuana/git-fundamentos-JoseAPulido/blob/main/circuito.png)
+![](https://github.com/tectijuana/git-fundamentos-JoseAPulido/blob/main/circuito.png?raw=true)
 
 ## ¿Para que sirve?
 Es un circuito integrado capaz de almacenar y llevar la cuenta de la fecha y hora, 
